@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ЖК сказка',
   tagline: 'База знаний чата жильцов',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://north-leshiy.github.io',
+  baseUrl: '/tale/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'north-leshiy', // Usually your GitHub org/user name.
+  projectName: 'tale', // Usually your repo name.
 
   presets: [
     [
