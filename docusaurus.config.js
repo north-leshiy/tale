@@ -51,7 +51,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/north-leshiy/tale',
             label: 'GitHub',
             position: 'right',
           },
