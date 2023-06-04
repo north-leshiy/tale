@@ -56,7 +56,7 @@ sidebar_position: 1
 
 - Максим (профиль скрыт) - создатель чата
 - [Иван](https://t.me/northleshiy)
-- [Нина](https://t.me/northleshiy)
+- [Нина](https://t.me/Nina_Tertyshnik)
 
 ## Как пригласить кого то в чат
 
