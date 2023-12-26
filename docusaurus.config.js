@@ -73,7 +73,7 @@ const config = {
             items: [
               {
                 label: "Главный чат дома",
-                to: "https://t.me/+_X_hHgL30RQxM2My",
+                to: "https://t.me/+ZWpYwu747TMxM2Vi",
               },
             ],
           },
