@@ -59,7 +59,7 @@ sidebar_position: 1
 
 ## Как пригласить кого то в чат
 
-Просто скиньте ему ссылку: [https://t.me/+N0wdDUe_h4wwMDcy](https://t.me/+N0wdDUe_h4wwMDcy)
+Просто скиньте ему ссылку: [https://t.me/+ZWpYwu747TMxM2Vi](https://t.me/+ZWpYwu747TMxM2Vi)
 
 ## Для чего нужен этот чат
 
