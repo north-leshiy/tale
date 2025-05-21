@@ -28,7 +28,7 @@ sidebar_position: 1
 - [3 подъезд](https://t.me/+OLR8a0cZJroyY2Vi)
 - [4 подъезд](https://t.me/+agK2iua0D88yY2Qy)
 - [5 подъезд](https://t.me/+1VPHHv5SM3U0Yzhi)
-- [6 подъезд](https://t.me/+6TyFFbI1Nws4OTZi)
+- [6 подъезд](https://t.me/+C75R48bcm9ZkZDcy)
 - [парковка](https://t.me/+pNUwBkaX-Y9iNDUy)
 
 ## Правила работы чатов
