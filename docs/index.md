@@ -99,7 +99,7 @@ sidebar_position: 1
 
 ## Как пригласить кого то в чат
 
-Просто отправьте ему ссылку: [https://north-leshiy.github.io/tale/i](https://north-leshiy.github.io/tale/), где он (она) сможет выбрать интересующие чаты и присоединиться к ним.​
+Просто отправьте ему ссылку: [https://north-leshiy.github.io/tale/](https://north-leshiy.github.io/tale/), где он (она) сможет выбрать интересующие чаты и присоединиться к ним.​
 
 ## Для чего нужен этот чат
 
